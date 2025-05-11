@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 lion
 dog
 cat
 elephant
 cow
+=======
+Fishes
+Hens
+Sparrow
+Sea
+India
+>>>>>>> c69321d (commited)
